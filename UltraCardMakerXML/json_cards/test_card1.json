@@ -1,0 +1,18 @@
+{
+    "card_title": "Mokey Mokey",
+    "card_text": "An outcast angel... hehe",
+    "card_ATK": "300",
+    "card_DEF": "100",
+    "card_serial_number": "12345678",
+    "card_set_id": "12312",
+    "card_attribute": "light",
+    "card_monster_type": "Fairy\/Normal",
+    "card_sub_card": "effect",
+    "card_card": "An outcast angel... hehe",
+    "card_level_rank": "star1",
+    "card_pendulum_link": "card_is_none",
+    "card_link_rating": "0",
+    "card_pscale_left": "0",
+    "card_pscale_right": "0",
+    "card_author": "Adio"
+}
